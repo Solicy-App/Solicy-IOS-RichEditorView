@@ -10,6 +10,9 @@ Written in Swift 4.0 (Xcode 11.x)
 
 Supports iOS 10 through CocoaPods or Carthage.
 
+## About
+This project is maintained by [Solicy Software and Blockchain Company](https://solicy.net/?utm_source=github&utm_medium=social)
+
 Seen in Action
 --------------
 ![Demo](./art/Demo.gif)
